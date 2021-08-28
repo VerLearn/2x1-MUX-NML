@@ -1,0 +1,20 @@
+Output=x orange1=x orange2=x orange3=x orange4=x orange5=x orange6=x orange7=x blue1=x blue2=x blue3=x blue4=x blue5=x blue6=x red1=x red2=x red3=x
+Global reset.
+Output=x orange1=0 orange2=0 orange3=0 orange4=0 orange5=0 orange6=0 orange7=0 blue1=0 blue2=0 blue3=0 blue4=0 blue5=0 blue6=0 red1=0 red2=0 red3=0
+oranges are in switch state.
+Blues and reds are in reset.
+Output=1 orange1=0 orange2=0 orange3=0 orange4=1 orange5=0 orange6=0 orange7=1 blue1=0 blue2=1 blue3=0 blue4=0 blue5=0 blue6=0 red1=0 red2=0 red3=0
+Oranges are in hold state.
+Blue1 and blue2 are in switch state.
+Blue3, blue4, blue5, blue6 and reds are in reset.
+Output=1 orange1=0 orange2=0 orange3=0 orange4=1 orange5=0 orange6=0 orange7=1 blue1=0 blue2=1 blue3=0 blue4=1 blue5=0 blue6=0 red1=0 red2=1 red3=0
+Oranges are in hold state.
+Blue1 and blue3 are in hold state.
+Blue2, blue4, blue5, red1, red2 are in switch state.
+blue6, red3 are in reset state.
+Output=1 orange1=0 orange2=0 orange3=0 orange4=1 orange5=0 orange6=0 orange7=1 blue1=0 blue2=1 blue3=0 blue4=1 blue5=1 blue6=0 red1=0 red2=1 red3=0
+Oranges are in hold state.
+Blue1 and blue3 are in hold state.
+Blue2, blue4, blue5, red1, red2 are in hold state.
+blue6, red3 are in switch state.
+Output=1 orange1=0 orange2=0 orange3=0 orange4=1 orange5=0 orange6=0 orange7=1 blue1=0 blue2=1 blue3=0 blue4=1 blue5=1 blue6=1 red1=0 red2=1 red3=1
